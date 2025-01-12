@@ -188,13 +188,17 @@ height: 325px;
     margin-top: 32px;
     margin-bottom: -80px;
     margin-left: 40px;
+    margin-right: 40px;
     border-radius: 10px;
+    padding-left: 3px;
 }
 .yunus p{
     /* margin-top: 40px; */
-    margin-left: 24px;
+    margin-left: 24x;
+    /* margin-right: 24px; */
     padding-top: 40px;
     padding-bottom: 40px;
+    padding-left: 10px;
 
 }
 
@@ -203,10 +207,12 @@ height: 325px;
     padding-top: -30px;
 
 }
+
 /* .satellite-section */
 
 .satellite{
     margin-left: 40px;
+    margin-right: 40px;
 }
     .aims{
         width: 1280px;
@@ -232,7 +238,7 @@ height: 325px;
    margin-top: 45px;
    margin-bottom: 45px;
    margin-left: 48px;
-   margin-right: 32px;
+   margin-right: 40px;
 
 }
 
@@ -304,4 +310,112 @@ height: 325px;
     margin-top: 24px;
     background-color: #e7e1e1;
 
+}
+
+/* donation */
+
+.abba{
+    /* border: 2px solid black; */
+    display: flex;
+    /* justify-content: center; */
+    justify-content: space-around;
+    align-items: center;
+    /* padding-left: 10px; */
+    /* border-radius: 10px; */
+    
+
+}
+.dano{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    margin-left: 50px;
+    background-color: #f5f2f2;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    
+}
+.dano:hover{
+    background-color: yellowgreen ;
+    
+}
+
+
+.dant{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-color:#C6E4D6;
+}
+.dant:hover{
+    background-color: yellowgreen ;
+}
+ 
+.danf{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-color: #f5f2f2;
+
+
+}
+.danf:hover{
+    background-color: yellowgreen ;
+}
+.danh{
+    /* border: 1px solid black; */
+    border-radius: 10px;
+    background-color: #f5f2f2;
+
+
+}
+
+.danh:hover{
+    background-color: yellowgreen ;
+}
+
+.checkbox{
+    width: 1000px;
+    
+}
+
+.two{
+    width: 920px;
+    height: 30px;
+    margin-top: 20px;
+    background-color: #e7e1e1;
+    text-align: center;
+}
+.btu{
+    margin-left: 410px;
+    background-color: #006A50;
+    margin-top: 15px;
+    width: 80px;
+    color: white;
+    border-radius: 5px;
+}
+
+/* subscribe */
+
+.subscribe{
+    background-color: #C6E4D6;
+    height: 200px;
+    width:800px ;
+    margin-left: 150px;
+    text-align: center;
+    padding-top: 20px;
+    border-radius: 10px;
+    
+}
+
+.subscribet{
+    width: 500px;
+    padding-left: 10px;
+}
+.baton{
+    background-color: #006A50;
+    color: white;
+}
+
+.done{
+    background-color: #006A50;
+    text-align: center;
 }
